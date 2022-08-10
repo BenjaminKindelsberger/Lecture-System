@@ -1,0 +1,2 @@
+# Lecture-Systen
+Using Django
