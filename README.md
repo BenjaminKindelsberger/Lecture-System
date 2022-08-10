@@ -1,2 +1,2 @@
-# Lecture-Systen
+# Lecture-System
 Using Django
